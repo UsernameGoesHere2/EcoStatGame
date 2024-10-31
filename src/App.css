@@ -28,6 +28,12 @@
   color: #61dafb;
 }
 
+.border-green-500 {
+  border-color: #38a169; /* Tailwind CSS green-500 */
+  border-width: 2px;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
